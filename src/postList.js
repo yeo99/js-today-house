@@ -1,7 +1,7 @@
-// posts.html에 .posting-container에다가 json데이터를 넣어줄 예정
+// postList.html에 .posting-container에다가 json데이터를 넣어줄 예정
 const $postsContainer = document.querySelector('.posting-container');
 
-// db.json에 있는 내용들을 fetch를 통해 const post에 가져옴
+// db.json에 있는 내용들을 fetch를 통해 const post에 가져올것
 const post = {};
 
 async function fetchPosts() {
