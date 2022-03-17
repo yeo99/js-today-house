@@ -16,7 +16,7 @@ async function fetchPosts() {
 
 
 // url의 쿼리 파라미터를 통해 id를 넘겨줄 예정이다.
-const postTemplate = (post) => `<a href="/detail.html?id=${post.id}">
+const postTemplate = (post) => `<a href="/postDetail.html?id=${post.id}">
 <div class="posting-wrapper">
         <div class="posting-image-container">
           <img
