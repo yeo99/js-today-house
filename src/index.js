@@ -1,4 +1,5 @@
 // 인덱스 페이지의 스크립트
+// $ 기호는 DOM 요소임을 나타낸다..? 굳이..?
 
 // 햄버거 버튼 가져옴
 const $sidebarToggleButton = document.querySelector('.side-bar-toggle');
