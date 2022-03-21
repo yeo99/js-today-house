@@ -1,10 +1,10 @@
-#Today-House-CloneCoding
+# Today-House-CloneCoding
 ---
-###About
+### About
 이 레포지터리는 웹 사이트 '오늘의 집'에서 '집들이'기능을 클론코딩하였습니다. Mock DB를 사용하였습니다. (ES6+)
 
 <br>
-###GitHub
+### GitHub
 해당 레포지터리 클론
 ```bash
 https://github.com/yeo99/js-today-house.git
